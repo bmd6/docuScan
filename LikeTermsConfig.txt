@@ -1,0 +1,2 @@
+Car_term[car, auto, automobile, sports car, muscle car]
+PC_term[PC, personal computer, computer]
